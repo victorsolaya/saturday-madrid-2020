@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSanchez.Plugins", "VSanchez.Plugins\VSanchez.Plugins.csproj", "{31F9ABA0-63E5-451E-B5EB-DF4B74BDE3DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSanchez.Plugins.UnitTests", "VSanchez.Plugins.UnitTests\VSanchez.Plugins.UnitTests.csproj", "{80DA14F8-09C0-437F-894C-9EFB69F06AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F9ABA0-63E5-451E-B5EB-DF4B74BDE3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F9ABA0-63E5-451E-B5EB-DF4B74BDE3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F9ABA0-63E5-451E-B5EB-DF4B74BDE3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F9ABA0-63E5-451E-B5EB-DF4B74BDE3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DA14F8-09C0-437F-894C-9EFB69F06AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DA14F8-09C0-437F-894C-9EFB69F06AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DA14F8-09C0-437F-894C-9EFB69F06AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DA14F8-09C0-437F-894C-9EFB69F06AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA1AA1A2-FD72-4D57-8156-68B66A7E782A}
+	EndGlobalSection
+EndGlobal
